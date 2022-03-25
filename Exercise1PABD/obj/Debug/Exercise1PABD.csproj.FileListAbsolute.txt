@@ -1,0 +1,7 @@
+C:\Users\ERIK\source\repos\Exercise1PABD\Exercise1PABD\bin\Debug\Exercise1PABD.exe.config
+C:\Users\ERIK\source\repos\Exercise1PABD\Exercise1PABD\bin\Debug\Exercise1PABD.exe
+C:\Users\ERIK\source\repos\Exercise1PABD\Exercise1PABD\bin\Debug\Exercise1PABD.pdb
+C:\Users\ERIK\source\repos\Exercise1PABD\Exercise1PABD\obj\Debug\Exercise1PABD.csprojAssemblyReference.cache
+C:\Users\ERIK\source\repos\Exercise1PABD\Exercise1PABD\obj\Debug\Exercise1PABD.csproj.CoreCompileInputs.cache
+C:\Users\ERIK\source\repos\Exercise1PABD\Exercise1PABD\obj\Debug\Exercise1PABD.exe
+C:\Users\ERIK\source\repos\Exercise1PABD\Exercise1PABD\obj\Debug\Exercise1PABD.pdb
